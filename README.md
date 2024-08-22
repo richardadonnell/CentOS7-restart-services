@@ -1,1 +1,1 @@
-# CentOS7-service-restart-script
+# CentOS7-restart-services
